@@ -191,6 +191,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JAYEMWCL
 
 [Document10]
+DocumentPath=AM3358_DEV_BOARD.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PTTZBMOI
+
+[Document11]
 DocumentPath=..\..\..\..\03. Altium Library\SyTungNguyen.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XICVDGUK
 
-[Document11]
+[Document12]
 DocumentPath=10. eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JHXYQCKE
 
-[Document12]
+[Document13]
 DocumentPath=11. USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQHPBKPV
 
-[Document13]
+[Document14]
 DocumentPath=12. uSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIOWHSWI
 
-[Document14]
+[Document15]
 DocumentPath=13. SYSTEM BOOT, USER LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFFQLMVH
 
-[Document15]
+[Document16]
 DocumentPath=AM3358_DEV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
